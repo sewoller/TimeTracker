@@ -9,4 +9,10 @@ https://sarunw.com/posts/swiftui-button-background-color/
 // TODO: figure out equal distribution of page directory buttons
 https://stackoverflow.com/questions/43045423/uistackview-equal-spacing-between-outside-elements
 
+https://stackoverflow.com/questions/24110762/swift-determine-ios-screen-size
+
+https://developer.apple.com/fonts/system-fonts/
+
+https://coderabbit.at/blog/custom-header-view-in-swiftui/
+
 
