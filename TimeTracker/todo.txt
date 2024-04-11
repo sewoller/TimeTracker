@@ -1,0 +1,21 @@
+#  Todo
+
+- create reusable timer ui object
+    - make layout/formatting variable rather than static
+- make start/stop button work::
+    - make stop/start button switch when pressed, keep track of status
+    - create timer object, keep track fo time spent in active timer mode
+- make different pages
+    - home page
+    - stats page
+    - list page (list all timers and sections)
+    - about page
+- make page nav buttons work
+- figure out if you can integrate python data analysis programs
+    - if yes, do that
+-
+
+
+
+#DONE
+- make sure a long timer title doesn't mess up formatting

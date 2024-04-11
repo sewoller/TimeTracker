@@ -4,5 +4,9 @@
 Video on UI in Swift:
 https://www.youtube.com/watch?v=HXoVSbwWUIk&t=1120s
 
+https://sarunw.com/posts/swiftui-button-background-color/
+
+// TODO: figure out equal distribution of page directory buttons
+https://stackoverflow.com/questions/43045423/uistackview-equal-spacing-between-outside-elements
 
 

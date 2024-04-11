@@ -49,6 +49,7 @@
 		81AD24282B8EBF730059289E /* TimeTrackerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeTrackerUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		81AD24352B8EBFEC0059289E /* colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colors.swift; sourceTree = "<group>"; };
 		81BEEBF22BBEF64C0013D507 /* resources.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = resources.txt; sourceTree = "<group>"; };
+		81BEEBF32BC8330F0013D507 /* todo.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = todo.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +102,7 @@
 			children = (
 				81AD240B2B8EBF710059289E /* TimeTrackerApp.swift */,
 				81AD240D2B8EBF710059289E /* ContentView.swift */,
+				81BEEBF32BC8330F0013D507 /* todo.txt */,
 				81BEEBF22BBEF64C0013D507 /* resources.txt */,
 				811EC5172BA282C400C0C249 /* TimerObject.swift */,
 				81AD24352B8EBFEC0059289E /* colors.swift */,
